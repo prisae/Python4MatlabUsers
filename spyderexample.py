@@ -17,13 +17,13 @@ ax.plot(x, y, 'r--')
 
 
 #%%%
-
-% MY OLD MATLAB CODE
-m = 2.0;
-
-for i=1:5
-m = m^i
-end
+#
+# % MY OLD MATLAB CODE
+# m = 2.0;
+#
+# for i=1:5
+# m = m^i
+# end
 
 #%%%
 
